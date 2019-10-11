@@ -1,0 +1,5 @@
+http://www.bacnetwiki.com/wiki/index.php?title=Object_Identifier
+http://www.bacnetwiki.com/wiki/index.php?title=Object_Instance
+http://www.bacnet.org/Bibliography/ES-7-96/ES-7-96.htm
+http://vp3-tm.info/vp3-tm-appendix-D.html
+https://www.controlscourse.com/bacnet-instance-number/
